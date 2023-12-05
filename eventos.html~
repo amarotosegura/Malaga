@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<header><h1> <img align="rigth" style="display: inline; margin-left: auto; margin-right: auto;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.malaga.eu%2Fexport%2Fsites%2Fmalagaeu%2Fel-ayuntamiento%2F.galleries%2FImagen-Corporativa%2FDOCUMENTOS-Escudo-simplificado%2Fayto-vertical-2lineas-positivo.png&tbnid=fhVoU5wZX7HU7M&vet=12ahUKEwjjzpr27-2CAxUvXqQEHRhjC6AQMygCegQIARB3..i&imgrefurl=https%3A%2F%2Fwww.malaga.eu%2Fel-ayuntamiento%2Fimagen-corporativa%2F&docid=UDdJ30mWG0hKNM&w=3579&h=2551&q=logo%20ayuntam&ved=2ahUKEwjjzpr27-2CAxUvXqQEHRhjC6AQMygCegQIARB3" alt="" width="100" height="70" />Ayuntamiento de Málaga</h1> </header>
+<body style="background-color:lightblue;>
+<head>
+<h1  style="text-align: center;">Eventos en Málaga</h1> 
+</head>
+<ul>
+<li>Visitar la alcazaba de Málaga</li>
+<li>Ver la famosa catedral "La Manquita"</li>
+<li>Visitar el museo Piccaso</li>
+<li>Ver el impresionante Muelle Uno</li>
+<li>Ir al concierto de Morad </li>
+<li>Partido del Málaga</li>
+</ul>
+<div align="center"><table border="1" style="background-color:beige;">
+<tr><th>Eventos</th><th>Precios medios</th></tr>
+<tr><td>Alcazaba</td><td>10 euros</td></tr>
+<tr><td>Catedral</td><td>12 euros</td></tr>
+<tr><td>Museo</td><td>12 euros</td></tr>
+<tr><td>Muelle</td><td>Gratis</td></tr>
+<tr><td>Concierto</td><td>30 euros</td></tr>
+<tr><td>Partido</td><td>25-75 euros</td></tr>
+
+</table>
+</body>
+</html>
